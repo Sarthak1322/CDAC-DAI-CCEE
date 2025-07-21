@@ -1,0 +1,234 @@
+Question No: 1
+What   is   the   objective   of   backpropagation   algorithm?
+
+Options:
+
+to   develop   learning   algorithm   for   multilayer   feedforward   neural   network
+
+to   develop   learning   algorithm   for   single   layer   feedforward   neural   network
+
+to   develop   learning   algorithm   for   multilayer   feedforward   neural   network,   so   that   network   can   be   trained   to   capture   the   mapping   implicitly
+
+none   of   the   mentioned
+
+Question No: 2
+In   MP   Neuron,   “excitatory”   inputs   have   more   influence   on   the   model   compared   to“inhibitory”   inputs
+
+Options:
+
+True
+
+FALSE
+
+Can't   Say
+
+Neither   True   nor   False   depends   on   input   values
+
+Question No: 3
+A   Star   Rating   between   1   to   5   from   user   comments   only   using   Deep   Learning   is   a4
+
+Options:
+
+many   to   many   prediction   task
+
+many   to   one   prediction   task
+
+Can   be   either   of   the   above
+
+Can't   Say
+
+ 
+Question No: 4
+Uniformity   of   Analysis   &   Design”   is   not   a   benefit   of   Neural   Networks
+
+Options:
+
+TRUE
+
+FALSE
+
+Can't   Say
+
+___
+Question No: 5
+Assume   a   simple   perceptron   model   with   3   inputs   X   =   [1,   2,   3].   The   weights   are   4,   5   and   6respectively.   Assume   the   activation   function   is   a   linear   function   f(x)   =   3   *   x.   What   will   be   the   output?
+
+Options:
+
+32
+
+64
+
+96
+
+Ca't   Say
+
+Question No: 6 (wrong)
+Which   of   the   following   is   NOT   a   generalization   technique   in   neural   networks?
+
+Options:
+
+Weight   Initialization
+
+Dropout
+
+L1   and   L2   Regularization
+
+Data   Augmentation
+
+
+Question No: 7
+Which   of   the   following   is   FALSE   about   Mini   Batch   Gradient   Descent?4
+
+Options:
+
+Performs   model   updates   per   batch   of   training   data
+
+Batch   size   is   a   hyper-parameter   which   needs   to   be   fine-tuned
+
+It   maintains   a   balance   between   Batch   Gradient   Descent   and   Stochastic   Gradient   Descent
+
+None   of   the   above
+
+Question No: 8
+Which   of   the   following   is   NOT   a   hyper-parameter   ?
+
+Options:
+
+Weights   and   bias
+
+Activation   function
+
+Learning   Rate
+
+Regulation   Gamma
+Question No: 9
+Suppose   you   are   training   a   LSTM.   You   have   a   10000   word   vocabulary,   and   are   using   an   LSTMwith   100-dimensional   activations   a.   What   is   the   dimension   of   Γu   (Gamma   u)   at   each   timestep?
+
+Options:
+
+1
+
+100
+
+10000
+
+Any   arbitrary   number
+Question No: 10
+You   are   training   an   RNN,   and   find   that   your   weights   and   activations   are   becoming   NaN   ("Nota   Number").   Which   of   these   is   the   most   likely   cause   of   this   problem?
+A. Vanishing   gradient   problem  
+B. Exploding   gradient   problem
+
+
+
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20
+
+Question No: 11
+You   are   training   an   RNN   language   model.   At   the   t   th   time   step,   what   is   the   RNN   predicting?Choose   the   best   answer
+
+Options:
+
+ŷ   =   p   [   y(t)   |   y(1),   y(2),   ...   y(t-1)   ]
+
+ŷ   =   p   *y(1),   y(2),   y(3)   ...   y(t-1)   ]
+
+Question No: 12(werong)
+Adam   Optimizer   is   based   on?
+
+Options:
+
+Stochastic   gradient   descent
+
+Momentum   gradient   descent
+
+Root   Mean   Square   Propagation   (   RMSProp)
+
+None   of   the   above
+
+Question No: 13(werong)
+Which   of   the   following   functions   must   be   used   as   an   activation   function   in   the   output   layer   ifwe   wish   to   output   the   probabilities   of   n   classes   (p1,   p2,   ...,   pn   )   such   that   sum   of   p   over   all   nequals   to   1?
+
+Options:
+
+ReLu
+
+Swish
+
+Tanh
+
+Softmax
+
+
+Question No: 15
+In   neural   network,   the   number   of   nodes   in   the   input   layer   and   first   hidden   layer   are   2   and   5respectively.   How   many   parameters   the   network   has   to   learn   for   this   combination?
+
+Options:
+
+5
+
+10
+
+15
+
+Any   Integer   Value
+Question No: 16 (wrong)
+Which   of   the   following   statements   is   true   when   you   use   1×1   convolutions   in   a   CNN?
+
+Options:
+
+It   can   help   in   dimensionality   reduction
+
+It   suffers   less   over-fitting   due   to   small   kernel   size
+
+It   can   be   used   for   feature   pooling
+
+All   of   the   above
+
+Question No: 17
+If   a   neural   network   has   only   one   hidden   layer   between   the   input   and   output   it   will   be   called   a?
+
+Options:
+
+Shallow   neural   network
+
+Deep   neural   network
+
+Feed-forward   neural   networks
+
+Recurrent   neural   networks
+Question No: 18(wrongh)
+Which   of   the   following   can   hamper   accuracy   of   deep   learning?   (Select   all   applicable   options
+
+Options:
+
+Limited   Labeled   data
+
+No   GPU
+
+No   CUDA
+
+All   of   the   above
+Question No: 19(wrong)
+CNNs   are   more   effective   than   others   when   there   is?
+
+Options:
+
+Unstructured   Data
+
+Structured   Data
+
+Either
+
+None   of   the   above
+Question No: 20
+How   many   type   of   layers   a   Deep   Neural   Network   must   have?
+
+Options:
+
+One
+
+Two
+
+Three
+
+All   of   the   above

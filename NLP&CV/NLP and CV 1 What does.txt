@@ -1,0 +1,566 @@
+NLP and CV
+==========
+1. What does NLP stand for?
+   a. Neural Language Processor
+   b. Natural Learning Program
+   c. Natural Language Processing
+   d. Neural Learning Processing
+   **c**
+
+2. Which of the following is a common task in NLP?
+   a. Edge Detection
+   b. POS Tagging
+   c. Image Segmentation
+   d. Object Tracking
+   **b**
+
+3. What is the goal of tokenization in NLP?
+   a. Compressing text
+   b. Translating text
+   c. Splitting text into words or sentences
+   d. Encrypting text
+   **c**
+
+4. Which library is used for NLP in Python?
+   a. OpenCV
+   b. seaborn
+   c. NLTK
+   d. matplotlib
+   **c**
+
+5. What is stop word removal?
+   a. Removing punctuation
+   b. Removing very long words
+   c. Removing common words like “the”, “is”
+   d. Removing named entities
+   **c**
+
+6. In NLP, what is lemmatization?
+   a. Counting words
+   b. Removing stop words
+   c. Converting words to base form
+   d. Converting text to numbers
+   **c**
+
+7. What is the function of word embeddings?
+   a. Visualize sentences
+   b. Detect objects
+   c. Represent words as vectors
+   d. Convert audio to text
+   **c**
+
+8. Which technique is used to reduce dimensionality of word vectors?
+   a. Convolution
+   b. Pooling
+   c. PCA
+   d. POS tagging
+   **c**
+
+9. Which is a common word embedding model?
+   a. YOLO
+   b. ResNet
+   c. Word2Vec
+   d. GAN
+   **c**
+
+10. What is a bag-of-words model?
+    a. A type of convolution
+    b. Representation of text by word counts
+    c. A deep learning model
+    d. Image dataset
+    **b**
+
+11. What is the main task of Named Entity Recognition?
+    a. Counting words
+    b. Identifying sentence boundaries
+    c. Identifying proper names in text
+    d. Predicting next sentence
+    **c**
+
+12. What is stemming in NLP?
+    a. Adding suffixes
+    b. Removing punctuation
+    c. Reducing words to root form
+    d. Translating text
+    **c**
+
+13. Which transformer-based model became widely popular in NLP?
+    a. CNN
+    b. LSTM
+    c. GAN
+    d. BERT
+    **d**
+
+14. What does BERT stand for?
+    a. Binary Encoding for Recurrent Text
+    b. Base Encoder for Real-Time
+    c. Bidirectional Encoder Representations from Transformers
+    d. Basic Entity Recognition Tool
+    **c**
+
+15. What is TF-IDF used for?
+    a. Translating languages
+    b. Image classification
+    c. Scoring word importance in a document
+    d. Predicting word vectors
+    **c**
+
+16. What is the full form of POS in NLP?
+    a. Position of Syntax
+    b. Part of Speech
+    c. Processing of Sentences
+    d. Path of Semantic
+    **b**
+
+17. Which of the following is a language generation task?
+    a. Image recognition
+    b. Sentiment classification
+    c. Text summarization
+    d. POS tagging
+    **c**
+
+18. In computer vision, what is the purpose of a convolutional layer?
+    a. Compress data
+    b. Normalize input
+    c. Extract features from images
+    d. Increase resolution
+    **c**
+
+19. Which library is commonly used for CV in Python?
+    a. spaCy
+    b. OpenCV
+    c. NLTK
+    d. seaborn
+    **b**
+
+20. What is image classification?
+    a. Cropping image
+    b. Assigning labels to images
+    c. Generating captions
+    d. Enhancing contrast
+    **b**
+
+21. What is the goal of object detection?
+    a. Segment the image
+    b. Identify text in an image
+    c. Locate and label objects
+    d. Match image colors
+    **c**
+
+22. What does CNN stand for?
+    a. Central Neural Node
+    b. Convolutional Neural Network
+    c. Conditional Neural Network
+    d. Core Network Node
+    **b**
+
+23. Which activation function is commonly used in CNNs?
+    a. tanh
+    b. sigmoid
+    c. ReLU
+    d. softmax
+    **c**
+
+24. What is the purpose of pooling layers in CNNs?
+    a. Flatten the image
+    b. Upsample the feature map
+    c. Reduce spatial dimensions
+    d. Increase the number of filters
+    **c**
+
+25. What is overfitting in CV models?
+    a. Undertraining on images
+    b. Poor performance on training data
+    c. Good performance on training but poor on new data
+    d. No change in loss function
+    **c**
+
+26. Which dataset is used for handwritten digit recognition?
+    a. ImageNet
+    b. CIFAR-10
+    c. MNIST
+    d. COCO
+    **c**
+
+27. What is a kernel in CNNs?
+    a. An image
+    b. A pooling layer
+    c. A small matrix used for convolution
+    d. A regularizer
+    **c**
+
+28. What does data augmentation do in CV?
+    a. Reduce image size
+    b. Normalize data
+    c. Generate more training data using transformations
+    d. Remove noise from images
+    **c**
+
+29. What is semantic segmentation?
+    a. Classifying images
+    b. Translating images
+    c. Labeling each pixel of the image
+    d. Cropping regions
+    **c**
+
+30. Which model is used for real-time object detection?
+    a. Word2Vec
+    b. LSTM
+    c. YOLO
+    d. VGG
+    **c**
+
+31. What is the purpose of Flatten layer in CNNs?
+    a. Increase resolution
+    b. Convert matrix to vector
+    c. Apply filter
+    d. Reduce noise
+    **b**
+
+32. What is Transfer Learning in CV?
+    a. Moving files to cloud
+    b. Using pre-trained models for new tasks
+    c. Training model from scratch
+    d. Data visualization
+    **b**
+
+33. Which of these models is used for image generation?
+    a. BERT
+    b. GAN
+    c. SVM
+    d. LDA
+    **b**
+
+34. What is caption generation?
+    a. Creating a video
+    b. Segmenting text
+    c. Generating text to describe an image
+    d. Filtering images
+    **c**
+
+35. What is OCR used for?
+    a. Object tracking
+    b. Image segmentation
+    c. Text recognition from images
+    d. Denoising images
+    **c**
+
+36. What is an epoch in training models?
+    a. A data point
+    b. A batch of data
+    c. One complete pass through the dataset
+    d. An activation function
+    **c**
+
+37. What is BLEU score used for?
+    a. Evaluating classification accuracy
+    b. Measuring image quality
+    c. Evaluating translation quality
+    d. Comparing word vectors
+    **c**
+
+38. What is cosine similarity used for in NLP?
+    a. Classify documents
+    b. Measure similarity between vectors
+    c. Normalize text
+    d. Generate keywords
+    **b**
+
+39. Which model handles sequence-to-sequence tasks?
+    a. SVM
+    b. Random Forest
+    c. Encoder-Decoder
+    d. CNN
+    **c**
+
+40. What is attention mechanism in transformers?
+    a. Sort tokens
+    b. Select relevant parts of input
+    c. Encode pixel intensity
+    d. Normalize output
+    **b**
+
+DevOps
+======
+1. What is Docker primarily used for?
+   a. Managing databases
+   b. Containerizing applications
+   c. Writing code
+   d. Monitoring servers
+   **b**
+
+2. Which file is used to build a Docker image?
+   a. docker-compose.yml
+   b. Dockerfile
+   c. build.config
+   d. imagefile
+   **b**
+
+3. Which command is used to list running Docker containers?
+   a. docker list
+   b. docker ps
+   c. docker status
+   d. docker run
+   **b**
+
+4. What is the default port for Docker daemon?
+   a. 443
+   b. 80
+   c. 2375
+   d. 22
+   **c**
+
+5. What does Kubernetes (K8s) manage?
+   a. Git repositories
+   b. Code compilation
+   c. Container orchestration
+   d. CI pipelines
+   **c**
+
+6. What is a Kubernetes Pod?
+   a. A physical server
+   b. A group of containers
+   c. A YAML file
+   d. A virtual machine
+   **b**
+
+7. What file format does Kubernetes use for configuration?
+   a. JSON only
+   b. YAML or JSON
+   c. INI
+   d. XML
+   **b**
+
+8. What is the purpose of `kubectl`?
+   a. Monitoring servers
+   b. Managing Kubernetes clusters
+   c. Building Docker images
+   d. Running Git commands
+   **b**
+
+9. What is the function of a Deployment in Kubernetes?
+   a. Creates services
+   b. Scales and updates pods
+   c. Manages storage
+   d. Builds containers
+   **b**
+
+10. In Kubernetes, what exposes a pod to the outside world?
+    a. ConfigMap
+    b. ReplicaSet
+    c. Service
+    d. Secret
+    **c**
+
+11. What is Git used for?
+    a. Creating Docker containers
+    b. Version control
+    c. Monitoring clusters
+    d. Managing cloud infrastructure
+    **b**
+
+12. Which command initializes a Git repository?
+    a. git init
+    b. git start
+    c. git new
+    d. git repo
+    **a**
+
+13. What is the purpose of `git clone`?
+    a. Delete a repo
+    b. Make a commit
+    c. Copy a remote repo
+    d. Merge branches
+    **c**
+
+14. What does `git status` show?
+    a. Remote branches
+    b. Untracked/modified files
+    c. Remote URL
+    d. Deleted files only
+    **b**
+
+15. What is a Git branch used for?
+    a. Storing compiled code
+    b. Backing up code
+    c. Working on features independently
+    d. Logging errors
+    **c**
+
+16. What does `git merge` do?
+    a. Removes a branch
+    b. Combines branches
+    c. Creates a commit
+    d. Switches branches
+    **b**
+
+17. What is Jenkins?
+    a. Source code editor
+    b. Configuration tool
+    c. Continuous integration server
+    d. Container runtime
+    **c**
+
+18. Jenkins pipelines are defined using which language?
+    a. Python
+    b. YAML
+    c. Groovy
+    d. Bash
+    **c**
+
+19. Jenkinsfile is used to:
+    a. Configure Docker
+    b. Define a CI/CD pipeline
+    c. Deploy to AWS
+    d. Store passwords
+    **b**
+
+20. What is a Jenkins agent?
+    a. A build machine
+    b. An admin user
+    c. A container image
+    d. A Git repository
+    **a**
+
+21. What is a Jenkins plugin?
+    a. Container
+    b. Script
+    c. Extension for additional features
+    d. Deployment tool
+    **c**
+
+22. Which AWS service is used for hosting virtual machines?
+    a. S3
+    b. Lambda
+    c. EC2
+    d. RDS
+    **c**
+
+23. What does AWS S3 provide?
+    a. Compute power
+    b. Relational database
+    c. Object storage
+    d. Monitoring tools
+    **c**
+
+24. AWS IAM is used for:
+    a. Code deployment
+    b. User and access management
+    c. Billing
+    d. Storage backup
+    **b**
+
+25. What is AWS Lambda used for?
+    a. Serverless compute
+    b. Load balancing
+    c. Monitoring servers
+    d. Running Kubernetes
+    **a**
+
+26. What does `docker-compose` do?
+    a. Build images
+    b. Create Kubernetes clusters
+    c. Define and run multi-container apps
+    d. Monitor containers
+    **c**
+
+27. What does `docker build` do?
+    a. Starts containers
+    b. Lists containers
+    c. Builds images from Dockerfile
+    d. Connects to Kubernetes
+    **c**
+
+28. In Kubernetes, what is a ReplicaSet used for?
+    a. Building Docker images
+    b. Managing volume mounts
+    c. Ensuring desired number of pod replicas
+    d. Managing user roles
+    **c**
+
+29. Which Git command uploads local commits to a remote repository?
+    a. git fetch
+    b. git pull
+    c. git push
+    d. git clone
+    **c**
+
+30. What is CI/CD?
+    a. Code Integration / Code Deployment
+    b. Continuous Integration / Continuous Delivery
+    c. Centralized Installation / Centralized Deployment
+    d. Continuous Initialization / Centralized Development
+    **b**
+
+31. What does AWS CloudFormation do?
+    a. Stores objects
+    b. Manages secrets
+    c. Automates infrastructure as code
+    d. Builds Docker images
+    **c**
+
+32. What does a load balancer do?
+    a. Compress code
+    b. Balance network traffic across servers
+    c. Merge Git branches
+    d. Build CI pipelines
+    **b**
+
+33. Which tool is used for infrastructure provisioning?
+    a. Jenkins
+    b. Docker
+    c. Terraform
+    d. Git
+    **c**
+
+34. What does `kubectl apply` do?
+    a. Starts Docker
+    b. Applies YAML config to Kubernetes
+    c. Pushes code to Git
+    d. Deploys to Jenkins
+    **b**
+
+35. What is the purpose of GitHub Actions?
+    a. Create AWS EC2
+    b. Define Git branches
+    c. Automate workflows in GitHub
+    d. Monitor containers
+    **c**
+
+36. What is container orchestration?
+    a. Container deletion
+    b. Managing container lifecycle at scale
+    c. Monitoring databases
+    d. Pushing code to repo
+    **b**
+
+37. In Jenkins, what triggers a pipeline automatically?
+    a. Manual trigger
+    b. Webhook from Git
+    c. Dockerfile
+    d. AWS CLI
+    **b**
+
+38. Which AWS service runs Docker containers?
+    a. EC2
+    b. Lambda
+    c. ECS
+    d. RDS
+    **c**
+
+39. What is the use of `.gitignore`?
+    a. Hide commits
+    b. Ignore specified files from version control
+    c. Encrypt files
+    d. Rollback changes
+    **b**
+
+40. What is Helm in Kubernetes?
+    a. Load balancer
+    b. Monitoring tool
+    c. Package manager for Kubernetes
+    d. CI server
+    **c**
+
+
+
